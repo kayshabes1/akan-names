@@ -1,0 +1,19 @@
+p{
+    font-family: serif;
+    font-size: medium;
+}
+.card-body{
+    text-align: center;
+    background-color: bisque;
+}
+h2{
+    font-size: large;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: large;
+    font-style: italic;
+}
