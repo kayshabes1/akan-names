@@ -4,7 +4,7 @@ p{
 }
 .card-body{
     text-align: center;
-    background-color: bisque;
+    background-image: url(/images/kente.jpg);
 }
 h2{
     font-size: large;
@@ -16,4 +16,14 @@ h1{
 h3{
     font-size: large;
     font-style: italic;
+}
+.row{
+    background-color: bisque;
+}
+.container{
+    border: black;
+    background-image: url(/images/kente.jpg);
+}
+body{
+    background-image: url(/images/background3.jpeg);
 }
