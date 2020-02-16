@@ -8,12 +8,7 @@ culture. Frequently in Ghana, children are given their first name as a 'day name
 corresponds to the day in the week they were born. Input the required fields down below to
 generate your Akan name.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+....
 ## Known Bugs
 This web application is not always guaranteed to give the exact dates, on some days it'll be exact mostly in years like 2019, but years earliser than that, the outputs will be inaccurate.
 ## Technologies Used
