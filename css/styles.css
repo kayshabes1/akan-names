@@ -1,28 +1,31 @@
 p{
-    font-family: serif;
+    font-family: cursive;
     font-size: medium;
     font-weight: bolder;
+
 }
 .card-body{
     text-align: center;
     background-image: url(../images/kente.jpg)    
-    font-weight: bolder;
+    font-family: cursive;
 }
 h2{
     font-size: large;
     font-style: italic;
     color: wheat;
     font-weight: bolder;
+    font-family: cursive;
 }
 h1{
     text-align: center;
-    font-family: serif;
+    font-family: cursive;
 }
 h3{
     font-size: large;
     font-style: italic;
     color: wheat;
     font-weight: bolder;
+    font-family: cursive;
 }
 .container{
     border: black;
@@ -30,11 +33,14 @@ h3{
     float: inline-end;
     color: wheat;
     font-weight: bolder;
+    font-family: cursive;
 }
 body{
     background-image: url(../images/background3.jpeg);
+    font-family: cursive;
     
 }
 .jumbotron{
     background-image: url(../images/kente.jpg);
+    font-family: cursive;
 }
