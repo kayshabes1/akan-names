@@ -1,14 +1,18 @@
 p{
     font-family: serif;
     font-size: medium;
+    font-weight: bolder;
 }
 .card-body{
     text-align: center;
-    background-image: url(/images/kente.jpg);
+    background-image: url(../images/kente.jpg)    
+    font-weight: bolder;
 }
 h2{
     font-size: large;
     font-style: italic;
+    color: wheat;
+    font-weight: bolder;
 }
 h1{
     text-align: center;
@@ -17,14 +21,20 @@ h1{
 h3{
     font-size: large;
     font-style: italic;
-}
-.row{
-    background-color: bisque;
+    color: wheat;
+    font-weight: bolder;
 }
 .container{
     border: black;
-    background-image: url(/images/kente.jpg);
+    padding: 25px;
+    float: inline-end;
+    color: wheat;
+    font-weight: bolder;
 }
 body{
-    background-image: url(/images/background3.jpeg);
+    background-image: url(../images/background3.jpeg);
+    
+}
+.jumbotron{
+    background-image: url(../images/kente.jpg);
 }
